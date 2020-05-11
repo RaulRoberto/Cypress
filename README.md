@@ -2,7 +2,7 @@
 ---
 ![](https://www.ricochet360.com/wp-content/uploads/2018/11/logo-ricochet360-sm.png.webp)
 
-This test will be separated into two stages. The first is to answer a form with questions about Software Testing and the second stage is to automate some test scenarios in a demo application.
+This test will be separated into two stages. The first one is to answer a form about Software Testing and the second is for you automate some scenarios in a demo application.
 
 ## Stage 1
 
@@ -14,7 +14,7 @@ This test will be separated into two stages. The first is to answer a form with 
 
 ## Stage 2
 
-**Show us your skills by building and automating the tests in the following scenarios below.**
+**Show your skills building and automating the tests for the following scenarios:**
 
 ### Scenarios:
 
@@ -24,11 +24,11 @@ This test will be separated into two stages. The first is to answer a form with 
 **Requirements:**
 * You must create and automate at least 2 test cases for each scenario.
 * You must use this demo application to do the automation: http://automationpractice.com/index.php
-* You can choose the technologies that you want to use.
+* You are free to choose the technologies that you prefer.
 
 **How to submit my project?**
 
-To submit your automation project you must follow the following steps:
+To submit your automation project you must follow these steps:
 
 1. Clone this repository
 2. Create a branch
