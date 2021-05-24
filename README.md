@@ -1,36 +1,35 @@
-# Ricochet360 Test Analyst
+**QA-TEST RAUL**
+Raul Roberto Pereira Dias
 ---
-![](https://www.ricochet360.com/wp-content/uploads/2018/11/logo-ricochet360-sm.png.webp)
+**USED FRAMEWORK**
+- Cypress.
 
-This test will be separated into two stages. The first one is to answer a form about Software Testing and the second is for you automate some scenarios in a demo application.
+**PREREQUISITES**
+- Node.Js,
+- Yarn (optional),
+- Cypress;
 
-## Stage 1
+**RUN THE TESTS**
 
-**Questions about Software Testing:**
+1. Clone this project;
+2. In your terminal, cd _project directory_;
+3. Type *npm _or yarn_ run cypress:open*;
+4. The default cypress browser will open and execute all the tasks.
 
-1. Access this Form: https://forms.gle/cqezVEie8J9VXSJB8
-2. Fill in your email and answer the questions.
-3. Submit the form with your answers.
+**TESTS**
+1. Sign in:
+        - Sign in with a valid e-mail and an wrong password;
+        - Sign in with a blank e-mail;
+        - Sign in with a blank password;
+        - Sign in with a registered e-mail and correct password;
+        - Sign in with a registered e-mail and invalid password;
+2. Adding product in the cart:
+        - Sign in and add a product in the cart;
+        - Adding a new product by choosing T-shirts menu option;
+        - Add product from home page then from T-shirts menu option;
+        - Adding a product in the cart, then sign in at checkout;
 
-## Stage 2
 
-**Show your skills building and automating the tests for the following scenarios:**
+* Used aplication: http://automationpractice.com/index.php
 
-### Scenarios:
 
-- Sign up.
-- Add a product in the cart.
-
-**Requirements:**
-* You must create and automate at least 2 test cases for each scenario.
-* You must use this demo application to do the automation: http://automationpractice.com/index.php
-* You are free to choose the technologies that you prefer.
-
-**How to submit my project?**
-
-To submit your automation project you must follow these steps:
-
-1. Clone this repository
-2. Create a branch
-3. Commit all the code to that branch
-4. Send us a Merge Request
