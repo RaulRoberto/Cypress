@@ -18,16 +18,16 @@ Raul Roberto Pereira Dias
 
 **TESTS**
 1. Sign in:
-        - Sign in with a valid e-mail and an wrong password;
-        - Sign in with a blank e-mail;
-        - Sign in with a blank password;
-        - Sign in with a registered e-mail and correct password;
-        - Sign in with a registered e-mail and invalid password;
-2. Adding product in the cart:
-        - Sign in and add a product in the cart;
-        - Adding a new product by choosing T-shirts menu option;
-        - Add product from home page then from T-shirts menu option;
-        - Adding a product in the cart, then sign in at checkout;
+        - Sign in with a valid e-mail and an wrong password;<br>
+        - Sign in with a blank e-mail;<br>
+        - Sign in with a blank password;<br>
+        - Sign in with a registered e-mail and correct password;<br>
+        - Sign in with a registered e-mail and invalid password;<br>
+2. Adding product in the cart:<br>
+        - Sign in and add a product in the cart;<br>
+        - Adding a new product by choosing T-shirts menu option;<br>
+        - Add product from home page then from T-shirts menu option;<br>
+        - Adding a product in the cart, then sign in at checkout;<br>
 
 
 * Used aplication: http://automationpractice.com/index.php
