@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "cypress:open":"cypress open"
+    "cypress:open": "cypress open"
   },
   "repository": {
     "type": "git",
@@ -18,7 +18,7 @@
     "url": "https://gitlab.com/rico360/rico-qa-test/issues"
   },
   "homepage": "https://gitlab.com/rico360/rico-qa-test#readme",
-  "dependencies": {
-    "cypress": "^3.6.0"
+  "devDependencies": {
+    "cypress": "^10.11.0"
   }
 }
